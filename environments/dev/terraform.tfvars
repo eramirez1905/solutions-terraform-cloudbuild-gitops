@@ -1,1 +1,1 @@
-project="peya-data-poc"
+project="peya-data-pocs"
